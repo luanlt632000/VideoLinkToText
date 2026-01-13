@@ -196,11 +196,3 @@ tiny, base, small, medium, large
 | `transcription.txt` | Văn bản        |
 
 ---
-
-Nếu bạn muốn:
-
-* Xuất **SRT subtitle**
-* Chạy **batch nhiều link**
-* Làm **UI web**
-
-cứ nói, tôi setup cho bạn.
